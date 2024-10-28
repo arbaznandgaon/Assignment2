@@ -1,3 +1,7 @@
+
 Hi I am B
 in 2nd branch
 
+=======
+Hi there B
+ branch-2

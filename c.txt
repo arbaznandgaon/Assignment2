@@ -1,1 +1,5 @@
+ HEAD
 Hi im C
+=======
+Hi there C
+ branch-2
